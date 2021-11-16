@@ -2,6 +2,7 @@
 #include <iostream>
 #include <fstream>
 #include <set>
+#include <cmath>
 
 using namespace std;
 using namespace sf;
